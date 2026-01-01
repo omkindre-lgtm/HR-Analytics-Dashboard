@@ -19,4 +19,4 @@ The ultimate objective of this project is to empower HR professionals and busine
 
 # Example :
 How Dashboard look like 
-Example: ()
+Example: (https://github.com/omkindre-lgtm/HR-Analytics-Dashboard/blob/main/Hr%20Dashboard.png)
