@@ -16,3 +16,7 @@ The ultimate objective of this project is to empower HR professionals and busine
 4. Job satisfaction varies, with many rating only 2 out of 4.
 5. Work-life balance remains a concern for several employees.
 6. Income distribution shows majority in lower slabs.
+
+# Example :
+How Dashboard look like 
+Example: ()
